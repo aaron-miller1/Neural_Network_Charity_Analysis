@@ -10,7 +10,7 @@ The purpose of this analysis is to take a list of 34,000 foundations and use neu
 ### Data Processing
 - The variable being used is tracking whether or not the foundation is successful.
 - The features of this data set are the foundations application type, affiliation, classification, use case, organization, status, income amt, special considerations, and their asking amount.
-- For this machine learning model, the EIN ID # and the name of the foundations have been removed.
+- For this machine learning model, the EIN ID # and the name of the foundations have been removed.</br>
 ![image](https://user-images.githubusercontent.com/102704559/185723326-50d8e3d2-b90e-42ad-9abd-048523f55d29.png)
 
 
