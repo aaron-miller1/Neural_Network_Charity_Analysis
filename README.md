@@ -1,11 +1,11 @@
 # Neural_Network_Charity_Analysis
 
-#### OVERVIEW
+## OVERVIEW
 
 The purpose of this analysis is to take a list of 34,000 foundations and use neural network machine learning in order to predict where the best investment opporunities would be.
 
 
-#### RESULTS
+## RESULTS
 
 ### Data Processing
 - The variable being used is tracking whether or not the foundation is successful.
